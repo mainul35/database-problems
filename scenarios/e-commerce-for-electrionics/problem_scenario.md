@@ -56,7 +56,7 @@ Sample Data:
 | 501         | 101      | 2024-02-11    | Shipped |
 | 502         | 102      | 2024-02-16    | Shipped |
 | 503         | 103      | 2024-02-21    | Pending |
-### Difficult Query Questions:
+### Query Questions:
 
 1. Retrieve the total revenue generated from each product in the last month.
 2. List the names of customers who have made more than two orders.
